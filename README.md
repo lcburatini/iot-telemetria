@@ -1,26 +1,113 @@
-# IoT - Telemetria
+# Sistema de Telemetria GPS com ESP32
 
-Projetos de telemetria utilizando ESP32, Arduino e Python.
+Projeto experimental de telemetria utilizando ESP32 para captura de localização geográfica, armazenamento em cartão SD e visualização posterior através de uma aplicação Python.
 
-## Tecnologias
+---
+
+# Objetivo
+
+Desenvolver uma solução de baixo custo para registro de rotas e monitoramento de deslocamentos utilizando componentes amplamente disponíveis para aplicações educacionais e prototipagem.
+
+---
+
+# Arquitetura da Solução
+
+GPS NEO-6M
+↓
+ESP32
+↓
+RTC DS3231
+↓
+Cartão SD
+↓
+Arquivo CSV
+↓
+Aplicação Python
+↓
+Mapa Interativo
+
+---
+
+# Componentes Utilizados
+
+## Hardware
 
 - ESP32
-- GPS
-- RTC
-- Cartão SD
-- OLED
-- Python
-- SQLite
-
-## Projeto Principal
-
-### GPS Logger
-
-Sistema para captura e armazenamento de rotas utilizando:
-
 - GPS NEO-6M
 - RTC DS3231
-- Cartão SD
-- Display OLED
+- Módulo Cartão SD
+- Display OLED SSD1306
+- Protoboard
+- Jumpers
+- Bateria / Power Bank
 
-Os dados coletados podem ser visualizados posteriormente através de uma aplicação Python com mapa interativo.
+## Software
+
+- Arduino IDE
+- Python
+- SQLite
+- Folium
+- Pandas
+
+---
+
+# Estrutura do Projeto
+
+```text
+iot-telemetria
+│
+├── arduino
+│   └── gps_logger
+│
+├── python
+│   └── mapa_rotas
+│
+├── docs
+│
+├── imagens
+│
+└── exemplos
+
+```
+
+# Funcionalidades
+
+- Captura de coordenadas GPS
+- Registro de data e hora utilizando RTC
+- Gravação automática em cartão SD
+- Exibição das coordenadas em display OLED
+- Importação dos dados em Python
+- Visualização da rota em mapa
+
+---
+
+# Aplicações
+
+- Rastreamento experimental de veículos
+- Estudos de logística
+- Telemetria educacional
+- Projetos de IoT
+- Geolocalização
+
+---
+
+# Status
+
+Em desenvolvimento.
+
+Próximas etapas:
+
+- Publicação do código Arduino
+- Publicação da aplicação Python
+- Inclusão de fotos da montagem
+- Inclusão de diagramas elétricos
+- Inclusão de dados de exemplo
+
+---
+
+# Autor
+
+Luis Claudio Buratini
+
+GitHub:
+https://github.com/lcburatini
