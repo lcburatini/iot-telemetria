@@ -101,7 +101,7 @@ iot-telemetria
 
 ---
 
-# Montagem do Protótipo
+# Aplicação Python
 
 ## Visão Geral
 
