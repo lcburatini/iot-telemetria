@@ -172,16 +172,6 @@ contém arquivos CSV gerados pelo sistema para testes da aplicação Python sem 
 - Aplicação Python para visualização da rota
 - Mapa Interativo
 
-## Versão 4.0
-
-- Dashboard Web
-- Estatísticas de deslocamento
-
-## Versão 5.0
-
-- Telemetria em tempo real via MQTT
-- Integração com Home Assistant
-
 ---
 
 # Resultados Esperados
@@ -198,11 +188,9 @@ contém arquivos CSV gerados pelo sistema para testes da aplicação Python sem 
 
 - Publicação do código Arduino
 - Publicação da aplicação Python
-- Inclusão de fotos detalhadas da montagem
-- Inclusão do esquema elétrico
-- Inclusão da lista de materiais completa
-- Inclusão de vídeo demonstrativo
 - Inclusão de dados reais coletados em campo
+- Construção do circuito em placa perfurada
+- Acomodação da placa em um case
 
 ---
 
@@ -213,7 +201,6 @@ Luis Claudio Buratini
 **Technology Manager | IT Governance | Problem Management | Data Science | AI & IoT**
 
 - GitHub: https://github.com/lcburatini
-- LinkedIn: (adicionar posteriormente)
 
 ---
 
