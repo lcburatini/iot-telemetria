@@ -106,7 +106,7 @@ iot-telemetria
 ## Visão Geral
 
 <p align="center">
-  <img src="imagens/iot-telemetria-protoboard1.png" width="600">
+  <img src="imagens/IoT-telemetria-protoboard1.png" width="600">
 </p>
 
 <p align="center">
