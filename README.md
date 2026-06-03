@@ -108,7 +108,7 @@ Próximas etapas:
 
 ### Visão Geral
 
-![Protótipo](imagens/iot-telemetria-protoboard1.png)
+![Protótipo](imagens/IoT-telemetria-protoboard1.png)
 ---
 # Autor
 
