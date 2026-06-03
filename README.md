@@ -106,7 +106,8 @@ iot-telemetria
 ## Visão Geral
 
 <p align="center">
-  <img src="imagens/Tela Interface Python.png" width="200">
+  <img src="imagens/Tela Interface Python.png" width="800">
+      
 </p>
 
 <p align="center">
