@@ -106,11 +106,11 @@ iot-telemetria
 ## Visão Geral
 
 <p align="center">
-  <img src="imagens/IoT-telemetria-protoboard1.png" width="600">
+  <img src="imagens/Tela Interface Python.png" width="200">
 </p>
 
 <p align="center">
-  <em>Protótipo inicial utilizando ESP32, GPS NEO-6M, RTC DS3231, módulo SD e display OLED.</em>
+  <em>Objetivo final com os dados coletados sendo apresentados em uma aplicação Python.</em>
 </p>
 
 ---
@@ -118,10 +118,9 @@ iot-telemetria
 # Evolução da Montagem
 
 <p align="center">
-  <img src="imagens/IoT-telemetria-protoboard1.png" width="200">
-  <img src="imagens/IoT -telemetria-protoboard3.png" width="200">
-  <img src="imagens/IoT -telemetria-protoboard5.png" width="200">
-  <img src="imagens/Tela Interface Python.png" width="200">
+  <img src="imagens/IoT-telemetria-protoboard1.png" width="250">
+  <img src="imagens/IoT -telemetria-protoboard3.png" width="250">
+  <img src="imagens/IoT -telemetria-protoboard5.png" width="250">
 </p>
 
 <p align="center">
