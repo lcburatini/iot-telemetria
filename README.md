@@ -108,13 +108,7 @@ Próximas etapas:
 
 ### Visão Geral
 
-imagens/IoT -telemetria-protoboard1.png
-
-### Evolução da Montagem
-
-![Etapa 2](imagens/iot -telemetria-protoboard3.png)
-
-![Etapa 3](imagens/iot -telemetria-protoboard5.png)
+![Protótipo](imagens/iot-telemetria-protoboard1.png)
 ---
 # Autor
 
