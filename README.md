@@ -104,9 +104,18 @@ Próximas etapas:
 - Inclusão de dados de exemplo
 
 ---
-# Montagem do Protótipo
+## Montagem do Protótipo
 
-![Montagem](imagens/IoT - telemetria-protoboard1.png)
+### Visão Geral
+
+![Protótipo](imagens/iot-telemetria-protoboard1.png)
+
+### Evolução da Montagem
+
+![Etapa 2](imagens/iot-telemetria-protoboard3.png)
+
+![Etapa 3](imagens/iot-telemetria-protoboard5.png)
+---
 # Autor
 
 Luis Claudio Buratini
