@@ -104,7 +104,9 @@ Próximas etapas:
 - Inclusão de dados de exemplo
 
 ---
+# Montagem do Protótipo
 
+![Montagem](imagens/IoT - telemetria-protoboard1.png)
 # Autor
 
 Luis Claudio Buratini
