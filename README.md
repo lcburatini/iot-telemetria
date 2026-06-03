@@ -107,8 +107,9 @@ Próximas etapas:
 ## Montagem do Protótipo
 
 ### Visão Geral
+<img src="imagens/iot-telemetria-protoboard1.png" width="500">
 
-![Protótipo](imagens/IoT-telemetria-protoboard1.png)
+#![Protótipo](imagens/IoT-telemetria-protoboard1.png)
 ---
 # Autor
 
